@@ -2,4 +2,5 @@
 student management system using python.
 
 
-![image](https://user-images.githubusercontent.com/89294557/186748157-5109bfbe-8412-4b93-9bcd-5c228a1b07f3.png)
+![image](https://user-images.githubusercontent.com/89294557/186748402-ee362a55-fc20-4687-b419-5f163eadc307.png)
+
